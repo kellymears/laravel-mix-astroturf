@@ -1,6 +1,6 @@
 # Laravel Mix Astroturf
 
-Compile CSS-in-JSS pre-runtime with [Astroturf](https://github.com/4Catalyzer/astroturf) and PostCSS magika.
+Laravel Mix extension that allows you to compile CSS-in-JSS pre-runtime with [Astroturf](https://github.com/4Catalyzer/astroturf) and PostCSS magika.
 
 ## Install
 

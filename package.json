@@ -1,0 +1,23 @@
+{
+  "name": "laravel-mix-astroturf",
+  "version": "0.1.0",
+  "description": "Laravel Mix extension that allows you to compile CSS-in-JSS pre-runtime",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "github.com/pixelcollective/laravel-mix-astroturf"
+  },
+  "keywords": [
+    "laravel",
+    "laravel mix",
+    "mix",
+    "astroturf",
+    "css-in-js"
+  ],
+  "author": "Kelly Mears",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pixelcollective/laravel-mix-astroturf/issues"
+  },
+  "homepage": "https://github.com/pixelcollective/laravel-mix-astroturf/#readme"
+}
