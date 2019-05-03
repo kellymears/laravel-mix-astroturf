@@ -45,7 +45,7 @@ class Astroturf {
             }, {
               loader: 'sass-loader',
               options: {
-                implementation: require("sass")
+                implementation: require('sass')
               }
             }],
           },
